@@ -1,0 +1,75 @@
+{
+  "seller": [
+    {
+      "name": "Bensha Ingti",
+      "email": "beningti@gmail.com",
+      "password": "1234%",
+      "id": 1
+    },
+    {
+      "name": "John Dae",
+      "email": "john@gmail",
+      "password": "123asd",
+      "id": 2
+    },
+    {
+      "name": "Akash Ingti",
+      "email": "akash@ingti.co",
+      "password": "1234qwe",
+      "id": 3
+    },
+    {
+      "name": "Vikey Bey",
+      "email": "vikey@123",
+      "password": "123qwe",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "MSI Bravo ",
+      "price": "₹47,990",
+      "color": "white",
+      "category": "Laptop",
+      "description": "8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/AMD Radeon RX6550M/144 Hz) Bravo 15 B7ED-012IN Gaming Laptop  (15.6 inch, Black, 2.35 Kg)",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/c/i/7/bravo-15-b7ed-012in-gaming-laptop-msi-original-imagt3t6zhzdaday.jpeg?q=70&crop=false",
+      "id": 1
+    },
+    {
+      "name": "Apple iPhone 14",
+      "price": "₹72,990",
+      "color": "Transparent Silver",
+      "category": "Mobile",
+      "description": "The iPhone 14 display has rounded corners that follow a beautiful curved design.",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/3/5/l/-original-imaghx9qmgqsk9s4.jpeg?q=70&crop=false",
+      "id": 2
+    },
+    {
+      "name": "MacBook ",
+      "price": "₹1,22,990",
+      "color": "White",
+      "category": "laptop",
+      "description": "Click breathtaking photos and blur-free videos with this Sony α7 II DSLR camera - it provides you immense freedom to reinvent your photography skills.",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l5jxt3k0/dslr-camera/m/n/a/-original-imagg7hsggshhwbz.jpeg?q=70&crop=false",
+      "id": 3
+    },
+    {
+      "name": "Canon PIXMA TS207 Single Function Color Inkjet Printer",
+      "price": "₹22,990",
+      "color": "Black, Ink Cartridge",
+      "category": "Printer",
+      "description": "You can get high-quality prints with the help of the Canon PIXMA TS207 Inkjet Printer.",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/printer/x/o/l/-original-imaehgts2advywmf.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "New Balance ",
+      "price": "₹6,053",
+      "color": "Black",
+      "category": "Shoes",
+      "description": "HIERRO Running Shoes For Men",
+      "image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shoe/2/q/c/-original-imagtbtee86d2dhz.jpeg?q=70&crop=false",
+      "id": 6
+    }
+  ]
+}
